@@ -1,0 +1,28 @@
+{
+  "generator-angularjs-library": {
+    "props": {
+      "author": {
+        "name": "European Dynamics SA",
+        "email": "info@eurodyn.com"
+      },
+      "libraryName": {
+        "original": "QPubSub",
+        "camelized": "qpubSub",
+        "dasherized": "q-pub-sub",
+        "slugified": "qpubsub",
+        "parts": [
+          "qpubsub"
+        ]
+      },
+      "includeModuleDirectives": false,
+      "includeModuleFilters": false,
+      "includeModuleServices": true,
+      "includeAngularModuleResource": false,
+      "includeAngularModuleCookies": false,
+      "includeAngularModuleSanitize": false,
+      "librarySrcDirectory": "src/q-pub-sub",
+      "libraryUnitTestDirectory": "test/unit/q-pub-sub",
+      "libraryUnitE2eDirectory": "test/e2e/q-pub-sub"
+    }
+  }
+}
