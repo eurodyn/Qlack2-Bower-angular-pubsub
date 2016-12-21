@@ -1,6 +1,7 @@
 {
   "name": "qlack2-bower-angular-pubsub",
-  "version": "1.0.4",
+  "version": "1.0.5",
+  "license": "EUPL",
   "authors": [
     {
       "name": "European Dynamics SA",
