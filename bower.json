@@ -1,6 +1,6 @@
 {
   "name": "qlack2-bower-angular-pubsub",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "license": "EUPL",
   "authors": [
     {
@@ -17,7 +17,7 @@
     "**/.*"
   ],
   "dependencies": {
-    "qlack2-bower-pubsub": "1.0.5"
+    "qlack2-bower-pubsub": "1.0.6"
   },
   "devDependencies": {
     "angular-mocks": ">=1.2.0",
